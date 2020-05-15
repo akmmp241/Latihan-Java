@@ -1,0 +1,6 @@
+{
+    "editor.fontSize": 14,
+    "editor.fontFamily": "'Fira Code', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "workbench.colorTheme": "Dracula",
+    "workbench.iconTheme": "vscode-icons"
+}

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="085e1ad6-003e-4c47-b6d4-2af532522d0b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Zshs8n0PmSNdAjmwaAizb1XaPR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Akmmp.Main" />
+      <module name="3 - Method" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Akmmp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="085e1ad6-003e-4c47-b6d4-2af532522d0b" name="Default Changelist" comment="" />
+      <created>1585633912963</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585633912963</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="432" height="601" key="GridCell.Tab.0.bottom" timestamp="1585637397200">
+      <screen x="1366" y="0" width="1360" height="768" />
+    </state>
+    <state width="432" height="601" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1360.768@1366.0.1360.768" timestamp="1585637397200" />
+    <state width="432" height="601" key="GridCell.Tab.0.center" timestamp="1585637397200">
+      <screen x="1366" y="0" width="1360" height="768" />
+    </state>
+    <state width="432" height="601" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1360.768@1366.0.1360.768" timestamp="1585637397200" />
+    <state width="432" height="601" key="GridCell.Tab.0.left" timestamp="1585637397199">
+      <screen x="1366" y="0" width="1360" height="768" />
+    </state>
+    <state width="432" height="601" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1360.768@1366.0.1360.768" timestamp="1585637397199" />
+    <state width="432" height="601" key="GridCell.Tab.0.right" timestamp="1585637397200">
+      <screen x="1366" y="0" width="1360" height="768" />
+    </state>
+    <state width="432" height="601" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1360.768@1366.0.1360.768" timestamp="1585637397200" />
+    <state x="1550" y="18" key="SettingsEditor" timestamp="1585637659193">
+      <screen x="1366" y="0" width="1360" height="768" />
+    </state>
+    <state x="1550" y="18" key="SettingsEditor/0.0.1366.728/1366.0.1360.768@1366.0.1360.768" timestamp="1585637659193" />
+  </component>
+</project>
