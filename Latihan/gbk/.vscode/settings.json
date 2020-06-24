@@ -1,0 +1,10 @@
+{
+    "window.zoomLevel": 0,
+    "terminal.integrated.fontSize": 13,
+    "editor.fontSize": 16,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "workbench.colorTheme": "Dracula",
+    "workbench.iconTheme": "vscode-icons",
+    "java.completion.enabled": true
+}
